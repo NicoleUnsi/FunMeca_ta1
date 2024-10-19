@@ -1,0 +1,7 @@
+pillow
+av
+mediapipe
+numpy
+opencv-python-headless
+protobuf
+streamlit
